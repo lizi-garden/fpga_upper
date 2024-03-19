@@ -1,3 +1,3 @@
-[[README_zh.md]]
+[中文](README_zh.md)
 
 # FPGA Upper
