@@ -38,6 +38,11 @@
 
 使用 Qt 结合 MATLAB 一同开发。语言优先考虑 C++ ，或使用 Python
 
+## 使用开发库
+
+- [Qt](https://www.qt.io/)
+- [QCustomPlot](https://www.qcustomplot.com/)
+
 ## 待办事项
 
 - [ ] 软件界面设计
