@@ -2,6 +2,9 @@
 
 INTERFACE="enp4s0"
 
+# 配置防火墙
+# sudo firewall-cmd --permanent --add-port=7890-7891/udp
+
 echo "配置电脑ip"
 sudo ifconfig $INTERFACE 192.168.0.3 netmask 255.255.255.0
 
