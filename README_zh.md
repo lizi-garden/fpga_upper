@@ -40,14 +40,15 @@
 
 ## 使用开发库
 
-- [Qt](https://www.qt.io/)
+- Qt Widget
+- Qt Network
+- Qt Multimedia
+- Qt PrintSupport
 - [QCustomPlot](https://www.qcustomplot.com/)
 
 ## 待办事项
 
 - [ ] 软件界面设计
-- [ ] UDP 的基本实现
-- [ ] UDP 传输的音频流形式
-- [ ] 输出音频到电脑
-- [ ] 音频录制
-- [ ] 文件保存
+- [ ] 音频接收，录制，保存功能整合
+- [ ] 音频去噪
+
