@@ -1,0 +1,6 @@
+[submodule "fpga_upper_source"]
+	path = fpga_upper_source
+	url = https://github.com/lizi-garden/fpga_upper_source
+[submodule "source"]
+	path = source
+	url = https://github.com/lizi-garden/fpga_upper_source
